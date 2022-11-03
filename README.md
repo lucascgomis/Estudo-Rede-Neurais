@@ -1,2 +1,2 @@
 # Estudo-Rede-Neurais
-Este repósitorio contém um estudo sobre redes neurais
+Este notebook é um trabalho da disciplna MC886 (Aprendizado de máquina) ministrada na UNICAMP. Nele realizei um estudo sobre redes neurasi em conjunto com minha dupla, Marcos Confuorto Morelis, em que implementamos diversas funções a fim de construir um framework para redes neurais. Depois disso criamos uma rede para classificar imagens de células, e conseguimos um score de 0.8899 no conjunto de teste ficando em 4º lugar na competição da turma com mais de 28 duplas participantes
